@@ -26,3 +26,9 @@ console.log(typeof undefined);
 
 console.log(false);
 console.log(typeof false);
+
+console.log(Symbol);
+console.log(typeof Symbol());
+
+console.log(BigInt);
+console.log(typeof 37n);
